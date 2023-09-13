@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IvanierB
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning advanced programing 
+- 🌱 I’m currently learning intro to SWE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ivanierb@upr.edu
 
